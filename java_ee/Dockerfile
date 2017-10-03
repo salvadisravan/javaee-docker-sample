@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Rafael Pestano <rmpestano@gmail.com>
+MAINTAINER sravan salvadi <salvadisravan@gmail.com>
 
  
 # setup WildFly 
